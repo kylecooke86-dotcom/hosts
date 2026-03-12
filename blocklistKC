@@ -8,3 +8,36 @@
 0.0.0.0 sexperienceuk.channel4.com
 0.0.0.0 webstat.channel4.com 
 0.0.0.0 webstats.channel4.com
+0.0.0.0 ads.channel5.com 
+0.0.0.0 ads.c5media.com 
+0.0.0.0 analytics.channel5.com 
+0.0.0.0 stats.channel5.com 
+0.0.0.0 track.channel5.com 
+0.0.0.0 cdn.channel5.com 
+0.0.0.0 api.channel5.com 
+# optional – blocks telemetry API calls 
+0.0.0.0 pixel.channel5.com 
+# typical tracking pixel endpoint 
+0.0.0.0 smetrics.channel5.com 
+# server-side metrics collector 
+0.0.0.0 adservice.channel5.com 
+0.0.0.0 adserver.channel5.com 
+0.0.0.0 c5adverts.com 
+0.0.0.0 c5ads.com 
+0.0.0.0 c5tracking.com 
+0.0.0.0 c5analytics.com 
+0.0.0.0 c5cdn.com 
+0.0.0.0 c5media.net 
+0.0.0.0 c5media.org 
+0.0.0.0 c5adnetwork.com 
+0.0.0.0 c5adnetwork.net 
+0.0.0.0 c5adnetwork.org 
+0.0.0.0 c5adservice.com 
+0.0.0.0 c5adservice.net 
+0.0.0.0 c5adservice.org 
+0.0.0.0 c5track.com 
+0.0.0.0 c5track.net 
+0.0.0.0 c5track.org 
+0.0.0.0 c5pixel.com 
+0.0.0.0 c5pixel.net 
+0.0.0.0 c5pixel.org
